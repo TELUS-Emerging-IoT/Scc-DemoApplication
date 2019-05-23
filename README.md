@@ -27,7 +27,7 @@ If the program throws a CME error, then the BG96 may require a firmware upgrade,
 https://github.com/TELUS-Emerging-IoT/TELUS-IoT-BG96-Firmware-Update
 
 ## Optional
-If you require a clean version of the demo applcation it can be downloaded from workspaces (watchdocs). The scc-lib.zip contains the demo files.
+If you require a clean version of the demo application it can be downloaded from workspaces (watchdocs). The scc-lib.zip contains the demo files.
 ![alt text](images/1Downloadzip.png)
 
 Unzip and move the folder to the Raspberry pi
