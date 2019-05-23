@@ -5,9 +5,8 @@ On the raspberry pi, move to the following directory:
 ```
 /home/pi/Downloads/demo/scc-lib/demo-src
 ```
+Compile the demo3.cpp file
 
-## Compile the demo3.cpp file
-![alt text](images/3compile.png)
 enter the .../scc-lib/demo-src folder and issue the following command:
 
 ```
@@ -19,9 +18,13 @@ this generates the demo3 executable which can be run via the command:
 ```
 ./demo3
 ```
+The output should look like the following:
+
+![alt text](images/4exampleout.png)
+
 
 ## Optional
-If  Download the scc-lib.zip from workspaces (watchdocs)
+If you require a clean version of the demo applcation it can be downloaded from workspaces (watchdocs). The scc-lib.zip contains the demo files.
 ![alt text](images/1Downloadzip.png)
 
 Unzip and move the folder to the Raspberry pi
