@@ -1,13 +1,13 @@
 # Scc-DemoApplication
 This is a guide on how to setup and run the demo3 application utilizing the GD library.
 
-On the raspberry pi, move to the following directory:
+On the raspberry pi, cd to the following directory:
 ```
 /home/pi/Downloads/demo/scc-lib/demo-src
 ```
 Compile the demo3.cpp file
 
-enter the .../scc-lib/demo-src folder and issue the following command:
+in the .../scc-lib/demo-src folder, issue the following command:
 
 ```
 g++ demo3.cpp -lscc-toolkit -lssl -lcrypto -o demo3 -std=c++17
