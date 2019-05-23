@@ -5,9 +5,9 @@ On the raspberry pi, cd to the following directory:
 ```
 /home/pi/Downloads/demo/scc-lib/demo-src
 ```
-Compile the demo3.cpp file
+Compile the demo3.cpp file:
 
-in the .../scc-lib/demo-src folder, issue the following command:
+In the .../scc-lib/demo-src folder, issue the following command:
 
 ```
 g++ demo3.cpp -lscc-toolkit -lssl -lcrypto -o demo3 -std=c++17
@@ -22,6 +22,9 @@ The output should look like the following:
 
 ![alt text](images/4exampleout.png)
 
+If the program throws a CME error, then the BG96 may require a firmware upgrade, please see the following tutorial:
+
+https://github.com/TELUS-Emerging-IoT/TELUS-IoT-BG96-Firmware-Update
 
 ## Optional
 If you require a clean version of the demo applcation it can be downloaded from workspaces (watchdocs). The scc-lib.zip contains the demo files.
