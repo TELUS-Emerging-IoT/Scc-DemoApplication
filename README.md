@@ -31,6 +31,8 @@ https://github.com/TELUS-Emerging-IoT/TELUS-IoT-BG96-Firmware-Update
 ## demo3 output
 For reference, the output of the code is included on watchdox alongside some additional comments on what each section does. Overall demo3 showcases the various keys availible to the user. More information can be found within the demo3 source file and the scc-toolkit headers.
 
+Output Link: [demo3 output](https://blackberry.watchdox.com/ngdox/viewer/ecf29af4-4a89-4801-affd-afd2bf892c11)
+
 ## Optional
 If you require a clean version of the demo application it can be downloaded from workspaces (watchdocs). The scc-lib.zip contains the demo files.
 ![alt text](images/1Downloadzip.png)
